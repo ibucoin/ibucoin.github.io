@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ibucoin.github.io</id>
-    <title>ibucoin的小站</title>
-    <updated>2021-05-11T05:35:54.885Z</updated>
+    <title>Code Machine</title>
+    <updated>2021-05-15T14:32:43.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ibucoin.github.io"/>
     <link rel="self" href="https://ibucoin.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Stay Hungry Stay Foolish</subtitle>
     <logo>https://ibucoin.github.io/images/avatar.png</logo>
     <icon>https://ibucoin.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, ibucoin的小站</rights>
+    <rights>All rights reserved 2021, Code Machine</rights>
     <entry>
-        <title type="html"><![CDATA[hello，php]]></title>
-        <id>https://ibucoin.github.io/post/hello/</id>
-        <link href="https://ibucoin.github.io/post/hello/">
+        <title type="html"><![CDATA[记一次工具的切换]]></title>
+        <id>https://ibucoin.github.io/hello/</id>
+        <link href="https://ibucoin.github.io/hello/">
         </link>
         <updated>2021-05-10T14:32:57.000Z</updated>
-        <content type="html"><![CDATA[<p>hello</p>
+        <content type="html"><![CDATA[<p>最近开始尝试着切换一下手头上的两个工具: MoneyWiz和Things3。这两个工具并没有什么不好，主要在于各自有一些小缺点，用久了就让我觉得有些不开心，所以尝试着使用其他的软件来进行短暂的替换。</p>
+<h2 id="结论">结论</h2>
+<p>在使用了大概1个月之后，我在今天重新切换回MoneyWiz 和 Things3。主要是我在切换工具中，逐渐认识到自己的需求。</p>
+<h2 id="切换到moze3">切换到Moze3</h2>
+<p>找了好几款记账软件，各有各自的推荐。记账软件的一大痛点在于：切换的成本太大了。当我在MoneyWiz中记了1年多的账，要一时切换过来，数据都没办法同步。<br>
+这款软件很好，记账方便，标签系统，图表等也很完善，价格也便宜，月付费8元。但是有一些迷之付费才可用的功能，比如换图标，更换主题等。我始终认为一个记账软件，记账和易用是最主要的目的，其他是加分项。<br>
+最大的减分项在于没有 Mac 版本。电脑版本不管是补记账还是查看图表分析都非常的方便，这个缺失对我来说，很严重。另外就是界面太黑了，观感不是太好。</p>
+<h2 id="切换到todoist">切换到Todoist</h2>
+<p>切换到todoist，主要使用免费功能来进行体验。整体的体验很不错，基本上满足了我的需求，包括标签，筛选器等等。但是，后续我发现在使用上面，和在Things3的需求是一致的。todoist的多终端和看板等功能，对于我来说，我并没有进行使用。它的功能，Things3也完全能满足我的需求。</p>
+<h2 id="再记">再记</h2>
+<p>任何工具的变动都是一次巨大的时间成本，同时也是一个学习与深挖自己需求的过程。目前的话，尽量的简化自己的需求，同时使用比较简单，又满足我需求的工具。All in One 不如 One in One。</p>
 ]]></content>
     </entry>
 </feed>
