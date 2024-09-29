@@ -4,10 +4,10 @@
         <link>http://example.org/posts/</link>
         <description>All Posts | 生死的智慧</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Jan 2024 16:10:12 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>开始学习React的这几天</title>
+    <title>我开始学习React</title>
     <link>http://example.org/posts/learn-react/</link>
     <pubDate>Thu, 04 Jan 2024 16:10:12 &#43;0800</pubDate>
-    <author>Author</author>
+    <author>ibucoin</author>
     <guid>http://example.org/posts/learn-react/</guid>
     <description><![CDATA[作为一个半吊子的前端开发人员，写过uniapp,小程序，甚至有时候还得帮别人维护一下Jquery写的网站，却长时间并没有想法去接触React。最近尝试着入门一下React，对于我写代码的冲击还是挺大的。
 从官方手册,Next.js,阅读代码开始 大致的看了一下Next.js的框架，把官网的手册快速的过了一遍，尝试性的写了一下demo的代码，发现react的写法和vue的写法完全就是两种不一样的写法。
